@@ -1,0 +1,5 @@
+2.1. _Que las operaciones ean locales.
+     _Que se no se pierda la información.
+     _Que tenga integridad.
+
+2.2. La comunidad de Linux
